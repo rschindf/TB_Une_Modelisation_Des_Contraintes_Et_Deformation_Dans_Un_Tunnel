@@ -4,7 +4,7 @@
 
 * [Objectives](#objectives)
 * [About this repository](#about-this-repository)
-* [Bachelor thesis](#Bachelor thesis)
+* [Bachelor thesis](#Bachelor-thesis)
 
 # Objectives
 The objective of this program is to understand how stress and strain develop around a tunnel. This will be be based on a finite-difference MATLAB code using viscosity, velocity and pressure to compute the stress and strain in a two-dimension matrix. The goal is then to explore many variables and understand wich one of them as an influence.
