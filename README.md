@@ -12,7 +12,7 @@ The objective of this program is to understand how stress and strain develop aro
 # About this repository
 In this repository you can find:
 - the Matlab code base [TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel.m](TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel.m)
-- a file with all the codes used to produce the different figures [TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel/Figures_Matlab/](TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel/Figures_Matlab/)
+- a file with all the codes used to produce the different figures [TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel/Figures_Matlab/](Figures_Matlab/)
 
 
 # Bachelor thesis
