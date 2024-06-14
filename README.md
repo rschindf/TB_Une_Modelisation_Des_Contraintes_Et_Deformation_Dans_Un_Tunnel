@@ -12,7 +12,7 @@ The objective of this Bachelor thesis is to understand how stress and strain dev
 # About this repository
 In this repository you can find:
 - the main Matlab code : [TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel.m](TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel.m)
-- a file with all the codes used to produce the different figures : [Figures_Matlab](Figures_Matlab/). These files are named and numbered after their use in the Bachelor thesis. 
+- a file with all the codes used to produce the different figures : [Figures_Matlab](Figures_Matlab/). These codes are named and numbered after their use in the Bachelor thesis. 
 
 
 # Bachelor thesis
