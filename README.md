@@ -16,5 +16,5 @@ In this repository you can find:
 
 
 # Bachelor thesis
-The matlab code is presented in the Bachelor thesis, as are all the figure, results and equations used. Please refer to : [TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel.pdf](TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel.pdf)
+The matlab code is presented in the Bachelor thesis, as are all the figure, results and equations used. Please refer to : [TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel_Schindfessel.pdf](TB_Une_Modelisation_Des_Contraintes_Et_Deformation_Dans_Un_Tunnel_Schindfessel.pdf)
 
